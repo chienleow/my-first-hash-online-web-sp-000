@@ -25,6 +25,6 @@ def adding
                   "oil paintings" => 3
                  }
   
-  shipping_manifest["muskets"] = 
+  shipping_manifest["muskets"] = 2
 
 end
