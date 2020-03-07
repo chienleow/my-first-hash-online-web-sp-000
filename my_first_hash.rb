@@ -1,5 +1,5 @@
 def my_hash
-  your_hash {"favorite city"
+  your_hash {"favorite city" => "NYC"}
 
   
 end
