@@ -4,7 +4,7 @@ end
 
 
 def shipping_manifest
-  the manifest
+  the_manifest = {}
 
 
 end
